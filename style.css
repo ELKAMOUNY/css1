@@ -1,0 +1,28 @@
+h3 {
+    color: brown;
+    text-align: center;
+
+
+}
+
+#p1 {
+    color: coral;
+    text-align: right;
+}
+
+#p2{
+    color: burlywood;
+   text-align: left;
+}
+
+#p3{
+    color: blueviolet;
+    margin-top: 300px;
+
+}
+
+div {
+    border: solid 1px;
+    background-color: blue;
+    padding: 20px;
+}
